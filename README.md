@@ -23,10 +23,30 @@ You are required to model the price of houses with the available independent var
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+1. The 5 most important features in the Original Lasso Model are: 'GrLivArea', ‘MSZoning_FV’, ‘MSSubClass_160’,’Exterior1st_BrkComm’, and ‘AgeofProperty’
+2. The 5 most important features in the New Lasso Model are: 'Neighborhood_IDOTRR', 'Neighborhood_MeadowV', 'Neighborhood_OldTown', 'Neighborhood_BrDale', and 'Exterior2nd_Brk Cmn'.
+3. The top 10 predictor variables for Ridge Regression are as follows:
+- 'GrLivArea'
+- 'AgeofProperty'
+- 'OverallQual'
+- 'MSZoning_FV'
+- 'MSSubClass_160'
+- 'MSZoning_RL'
+- 'Neighborhood_Crawfor'
+- 'OverallCond'
+- 'MSSubClass_70'
+- 'TotalBsmtSF'
+4. The top 10 predictor variables for Lasso Regression are as follows:
+- 'GrLivArea'
+- 'AgeofProperty'
+- 'MSZoning_FV'
+- 'MSSubClass_160'
+- 'OverallQual'
+- 'Neighborhood_Crawfor'
+- 'MSZoning_RL'
+- 'MSSubClass_70'
+- 'OverallCond'
+- 'MSSubClass_90'
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
