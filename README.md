@@ -32,9 +32,12 @@ You are required to model the price of houses with the available independent var
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- python - version 3.7.6
+- seaborn - version 0.12.2
+- matplotlib - version 3.1.3
+- plotly - version 5.18.0
+- numpy - version 1.18.1
+- pandas - version 1.0.1
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
